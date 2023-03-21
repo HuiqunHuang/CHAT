@@ -1,5 +1,5 @@
 # CHAT
-Python implementation of paper "Cross-interaction Hierarchical Attention Networks for Urban Anomaly Prediction", with modifications.
+Python implementation of paper "Cross-interaction Hierarchical Attention Networks for Urban Anomaly Prediction", with modifications, not original codes.
 
 Implemented with tensorflow-
 GPU-2.3.0 

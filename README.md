@@ -1,10 +1,16 @@
 # CHAT
 Python implementation of paper "Cross-interaction Hierarchical Attention Networks for Urban Anomaly Prediction", with modifications, not official codes.
 
-Implemented with tensorflow-
-GPU-2.3.0 
+## Environment and Dependencies
+- Python 3.6
+- Tensorflow-GPU-2.3.0
+- Keras 2.7.0
+- Pandas 1.1.5
+- Scikit-learn 0.23.1
+- CUDA 10.1
+- CuDNN 7.6 
 
-## Citation
+## Citations
 If you found this repository useful, please consider citing our work and the original paper of CHAT:
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@article{huang2021multi,
@@ -40,6 +46,23 @@ If you found this repository useful, please consider citing our work and the ori
   booktitle={IJCAI},
   pages={4359--4365},
   year={2020}
+}
+</code></pre></div>
+
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@inproceedings{huang2023extreme,
+  title={Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning},
+  author={Huang, Huiqun and He, Suining and Tabatabaie, Mahan},
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)},
+  pages={1059--1070},
+  year={2023},
+  organization={IEEE}
+}"><pre class="notranslate"><code>@inproceedings{huang2023extreme,
+  title={Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning},
+  author={Huang, Huiqun and He, Suining and Tabatabaie, Mahan},
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)},
+  pages={1059--1070},
+  year={2023},
+  organization={IEEE}
 }
 </code></pre></div>
 

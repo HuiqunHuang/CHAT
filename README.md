@@ -10,6 +10,9 @@ Python implementation of paper "Cross-interaction Hierarchical Attention Network
 - CUDA 10.1
 - CuDNN 7.6 
 
+## Model Training & Evaluation
+python MainPredictionFunction/CHAT_Main.py
+
 ## Citations
 If you found this repository useful, please consider citing our work and the original paper of CHAT:
 

@@ -14,7 +14,7 @@ Python implementation of paper "Cross-interaction Hierarchical Attention Network
 python MainPredictionFunction/CHAT_Main.py
 
 ## Citations
-If you found this repository useful, please consider citing our work and the original paper of CHAT:
+If you were using our codes or found this repository useful, please consider citing our work:
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@article{huang2021multi,
   title={Multi-Head Spatio-Temporal Attention Mechanism for Urban Anomaly Event Prediction},
@@ -34,21 +34,6 @@ If you found this repository useful, please consider citing our work and the ori
   pages={1--21},
   year={2021},
   publisher={ACM New York, NY, USA}
-}
-</code></pre></div>
-
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@inproceedings{huang2020cross,
-  title={Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction.},
-  author={Huang, Chao and Zhang, Chuxu and Dai, Peng and Bo, Liefeng},
-  booktitle={IJCAI},
-  pages={4359--4365},
-  year={2020}
-}"><pre class="notranslate"><code>@inproceedings{huang2020cross,
-  title={Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction.},
-  author={Huang, Chao and Zhang, Chuxu and Dai, Peng and Bo, Liefeng},
-  booktitle={IJCAI},
-  pages={4359--4365},
-  year={2020}
 }
 </code></pre></div>
 

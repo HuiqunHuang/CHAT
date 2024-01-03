@@ -1,5 +1,7 @@
 # CHAT
-Python implementation of paper "Cross-interaction Hierarchical Attention Networks for Urban Anomaly Prediction", with modifications, not official codes.
+
+## Introduction
+This repo is the personal Python implementation of paper "Cross-interaction Hierarchical Attention Networks for Urban Anomaly Prediction", [<a href="https://www.ijcai.org/proceedings/2020/601">paper</a>], with some modifications, not official codes.
 
 ## Environment and Dependencies
 - Python 3.6
